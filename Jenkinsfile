@@ -1,9 +1,8 @@
 pipeline{
   stages{
     stage(){
-creds: user: $username pass: $password
-{
-}    
-}
+       creds: user: fjsgf pass: bfjhbvjhbsdhjv
+    
+        echo "ghello world"
   }
 }
